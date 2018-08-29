@@ -4,6 +4,8 @@
 ## 运维  
 - [canal](https://github.com/alibaba/canal)  
 > 一个mysql/oracle的从库伪装者，伪装成从库获取binlog日志信息，供下游订阅消费。  
+- [TiDB](https://github.com/pingcap/tidb)  
+> 如果你的业务由于种种种历史问题，导致数据库膨胀比较厉害，并且修正起来成本比较高，不妨考虑一下这个数据库。  
 
 ## 研发  
 - 编辑器  
