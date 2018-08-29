@@ -3,7 +3,7 @@
 
 ## 运维  
 - [canal](https://github.com/alibaba/canal)  
-> 一个myql/oracle的从库伪装者，伪装成从库获取binlog日志信息，供下游订阅消费。  
+> 一个mysql/oracle的从库伪装者，伪装成从库获取binlog日志信息，供下游订阅消费。  
 
 ## 研发  
 - 编辑器  
