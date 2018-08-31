@@ -10,6 +10,8 @@
 > 一个神奇的堡垒机，可在线还原某些操作员的历史操作。  
 
 ## 研发  
-- 编辑器  
+- 工具  
   - [SpaceVim](https://github.com/SpaceVim/SpaceVim)  
-  > 帮助不断折腾vim的开发者早日解脱的工具，不过很可能会“适得其反”更爱折腾了。
+  > 帮助不断折腾vim的开发者早日解脱的工具，不过很可能会“适得其反”更爱折腾了。  
+  - [lazygit](https://github.com/jesseduffield/lazygit)  
+  > 一个命令行下的git图形客户端，方便管理本地分支，查看commit&diff等。  
