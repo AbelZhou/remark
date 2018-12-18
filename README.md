@@ -18,4 +18,8 @@
 
 - 仓库
   - [Carbon](https://github.com/briannesbitt/Carbon)  
-  > 一个PHP的时间展示扩展
+  > 一个PHP的时间展示扩展  
+
+- PHP 
+  - [Inflector](https://github.com/ICanBoogie/Inflector)  
+  > 一个PHP的多语言转换库，可以重命名单复数、驼峰等。  
